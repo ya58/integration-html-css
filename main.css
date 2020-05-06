@@ -1,3 +1,17 @@
 #logo-acs{
   width:120px;
 }
+.card-img-top {
+width: auto;
+height: 150px;
+margin: auto;
+}
+
+.card {
+height: auto;
+}
+
+.card-text{
+width: auto;
+height: 200px;
+}
